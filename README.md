@@ -46,7 +46,11 @@ We installed TortoiseGit with Chocolatey. TortoiseGit integrates with Windows Fi
 
 ## Set up Git
 
-It is critical that you follow all setup instructions when you first install Git. You must configure Git with your full name and email address.
+It is critical that you follow all setup instructions when you first install Git. You must configure Git with your full name and email address. 
+
+Set up Git for every repository on your computer by following the simple instructions at:
+
+- <https://docs.github.com/en/free-pro-team@latest/github/using-git/setting-your-username-in-git>
 
 ## Transferring Files
 
