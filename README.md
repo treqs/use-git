@@ -2,8 +2,8 @@
 
 > Get your Windows computer ready for collaboration with Git
 
-- [Webpage](https://github.com/denisecase/git-started-windows)
-- [Source](https://denisecase.github.io/git-started-windows/)
+- [Webpage](https://denisecase.github.io/git-started-windows/)
+- [Source](https://github.com/denisecase/git-started-windows)
 
 ## Prerequisites
 
