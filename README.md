@@ -36,13 +36,10 @@ If you're a student, check both sites for the most recent education options.
 - [GitHub Education](https://education.github.com/)
 - [BitBucket Education](https://bitbucket.org/product/education)
 
-## Prerequisite: Git
+## Prerequisites
 
-We installed Git for Windows with Chocolatey. 
-
-## Prerequisite: TortoiseGit
-
-We installed TortoiseGit with Chocolatey. TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day.
+- You'll need Git for Windows. See the prerequistes above.
+- You'll want TortoiseGit. See the prerequistes above. TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day.
 
 ## Set up Git
 
@@ -102,6 +99,8 @@ Use Windows start to run PuTTYgen. Follow the instructions from the link below t
 
 Make sure your computer is set up for developers and that you can see hidden files [1].
 
+---
+
 ## Terms
 
 - Cloud storage provider
@@ -124,7 +123,7 @@ Make sure your computer is set up for developers and that you can see hidden fil
 
 ## Next Steps
 
-Upgrade your Windows software automagically
+Optional for advanced users: Upgrade your Windows software automagically. 
 
 - [Automate daily upgrades](https://github.com/denisecase/windows-daily-software-upgrade)
 
