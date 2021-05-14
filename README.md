@@ -1,24 +1,24 @@
 # Git Started on Windows
 
-> Get your Windows computer ready for collaboration with Git
+> Get your computer ready for collaboration with Git
 
 - [Webpage](https://denisecase.github.io/git-started-windows/)
 - [Source](https://github.com/denisecase/git-started-windows)
 
 ## Prerequisites
 
-- [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
-- [Windows File Management](https://github.com/denisecase/windows-file-management)
+- Windows users only: [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
+- Windows users only: [Windows File Management](https://github.com/denisecase/windows-file-management)
 - [Basic Tools for Web Development](https://github.com/denisecase/basic-tools-for-webdev) OR
 - [Basic Tools for Data Analytics Fundamentals](https://github.com/denisecase/basic-tools-for-data-analytics-fundamentals)
 
 ## Git
 
-Git is a distributed version control system that allows developers to work together on common projects and collaborate effectively with people around the world.
+Git is a **distributed version control system** that allows developers to work together on common projects and collaborate effectively with people around the world.
 
 ## Repositories
 
-A repository is a place to store content. This project is kept in a public repository at <https://github.com/denisecase/git-started-windows>.
+A **repository** is a place to store content. This project is kept in a public repository at <https://github.com/denisecase/git-started-windows>.
 
 Repositories may also be private - visible only to yourself or to a team.
 
@@ -38,14 +38,14 @@ If you're a student, check both sites for the most recent education options.
 
 ## Prerequisites
 
-- You'll need Git for Windows. See the prerequistes above.
-- You'll want TortoiseGit. See the prerequistes above. TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day.
+- You'll need [Git](https://git-scm.com/). Download and install as directed.
+- Windows Users: You'll want [TortoiseGit](https://tortoisegit.org/). TortoiseGit integrates with Windows File Explorer, making it fast and easy to execute most of the typical Git commands used every day. TortoiseGit is optional, but recommended for Windows users. 
 
 ## Set up Git
 
 It is critical that you follow all setup instructions when you first install Git. You must configure Git with your full name and email address. 
 
-Set up Git for every repository on your computer by following the simple instructions at:
+Set up Git for **every repository** on your computer by following the simple instructions at:
 
 - <https://docs.github.com/en/free-pro-team@latest/github/using-git/setting-your-username-in-git>
 
